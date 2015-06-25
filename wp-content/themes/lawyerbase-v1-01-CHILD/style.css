@@ -58,4 +58,4 @@ body .body-wrapper.gdlr-boxed-style {
 .gdlr-navigation-wrapper .gdlr-main-menu > li > a:before {display: none!important;}
 }
 
-#wpcf7-f4-o1 > form > p:nth-child(3) > span > input{background-color: #000!important;}
+#wpcf7-f4-o1 > form > p:nth-child(3) > span > input, #wpcf7-f4-o1 > form > p:nth-child(4) > span > input, #wpcf7-f4-o1 > form > p:nth-child(5) > span > textarea {background-color: #EDDCDC!important;}
