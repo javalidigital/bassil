@@ -2572,6 +2572,7 @@
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4137</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
 
@@ -2590,6 +2591,26 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership & Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
+
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+
+<h4>Education & Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+
+<h4>Leadership , Membership & Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4137</wp:post_id>
@@ -2625,6 +2646,7 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bib
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4154</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
 
@@ -2643,6 +2665,26 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership & Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
+
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+
+<h4>Education & Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+
+<h4>Leadership , Membership & Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4154</wp:post_id>
@@ -2682,6 +2724,7 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bib
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4155</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
 
@@ -2700,6 +2743,26 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership & Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
+
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+
+<h4>Education & Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+
+<h4>Leadership , Membership & Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4155</wp:post_id>
@@ -4127,6 +4190,7 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bib
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4156</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
 
@@ -4145,6 +4209,26 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership & Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper. 
+
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+
+<h4>Education & Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+
+<h4>Leadership , Membership & Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4156</wp:post_id>
@@ -4184,6 +4268,7 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bib
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4163</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
 <h4>Education</h4>
@@ -4199,6 +4284,23 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership &amp; Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+<h4>Education &amp; Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+<h4>Leadership , Membership &amp; Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4163</wp:post_id>
@@ -4238,6 +4340,7 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bib
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4164</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
 <h4>Education</h4>
@@ -4253,6 +4356,23 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership &amp; Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+<h4>Education &amp; Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+<h4>Leadership , Membership &amp; Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4164</wp:post_id>
@@ -4292,6 +4412,7 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bib
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4165</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
 <h4>Education</h4>
@@ -4307,6 +4428,23 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership &amp; Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+<h4>Education &amp; Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+<h4>Leadership , Membership &amp; Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4165</wp:post_id>
@@ -4346,6 +4484,7 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bib
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=attorney&#038;p=4166</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h4>Biography</h4>
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
 <h4>Education</h4>
@@ -4361,6 +4500,23 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 <h4>Leadership , Membership &amp; Honors</h4>
 Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+=======
+		<content:encoded><![CDATA[<h4>Biography</h4>
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui.Vestibulum id ligula porta felis euismod semper.
+<h4>Education</h4>
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Massachusetts Institute of Technology, Sloan School of Management, Cambridge, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] Boston University School of Law, Boston, MA
+[gdlr_icon type="fa-long-arrow-right" size="13px" color="#333333"] The Phoenix High School Of New York
+[gdlr_space height="30px"]
+<h4>Education &amp; Court Admissions</h4>
+Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[gdlr_space height="30px"]
+<h4>Leadership , Membership &amp; Honors</h4>
+Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4166</wp:post_id>
@@ -16678,6 +16834,7 @@ Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis moll
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?page_id=120</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<h1>H1 HEADING TAG</h1>
 Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
 <h2>H2 HEADING TAG</h2>
@@ -16832,6 +16989,162 @@ Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus 
 
 [gdlr_divider type="dotted" ]
 
+=======
+		<content:encoded><![CDATA[<h1>H1 HEADING TAG</h1>
+Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<h2>H2 HEADING TAG</h2>
+Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<h3>H3 HEADING TAG</h3>
+Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<h4>H4 HEADING TAG</h4>
+Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<h5>H5 HEADING TAG</h5>
+Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<h6>H6 HEADING TAG</h6>
+Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+[gdlr_space height="50px"]
+
+[gdlr_divider type="dotted" ]
+
+[gdlr_dropcap type="circle" color="#ffffff" background="#ec4933"]S[/gdlr_dropcap]uis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+[gdlr_dropcap type="normal" color="#222222"]S[/gdlr_dropcap]uis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_dropcap type="circle" color="#ffffff" background="#e36d39"]S[/gdlr_dropcap]
+
+[gdlr_dropcap type="normal" color="#222222"]S[/gdlr_dropcap]
+
+[/gdlr_code]
+
+[gdlr_space height="50px"]
+
+[gdlr_divider type="dotted" ]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Text Align Center[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gdlr_text_align class="center" ]At nos hinc posthac, sitientis piros Afros. Integer legentibus erat a ante historiarum dapibus. Quisque placerat facilisis egestas cillum dolore. Pellentesque habitant morbi tristique senectus et netus. Quam temere in vitiis, legem sancimus haerentia.[/gdlr_text_align]
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_text_align class="center" ]At nos hinc posthac, sitientis piros Afros. Integer legentibus erat a ante historiarum dapibus. Quisque placerat facilisis egestas cillum dolore. Pellentesque habitant morbi tristique senectus et netus. Quam temere in vitiis, legem sancimus haerentia.[/gdlr_text_align]
+
+[/gdlr_code]
+
+[gdlr_space height="50px"]
+
+[gdlr_divider type="dotted" ]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Text Align Right[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gdlr_text_align class="right" ]At nos hinc posthac, sitientis piros Afros. Integer legentibus erat a ante historiarum dapibus. Quisque placerat facilisis egestas cillum dolore. Pellentesque habitant morbi tristique senectus et netus. Quam temere in vitiis, legem sancimus haerentia.[/gdlr_text_align]
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_text_align class="right" ]At nos hinc posthac, sitientis piros Afros. Integer legentibus erat a ante historiarum dapibus. Quisque placerat facilisis egestas cillum dolore. Pellentesque habitant morbi tristique senectus et netus. Quam temere in vitiis, legem sancimus haerentia.[/gdlr_text_align]
+
+[/gdlr_code]
+
+[gdlr_space height="50px"]
+
+[gdlr_divider type="dotted" ]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Text Align Left[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gdlr_text_align class="left" ]At nos hinc posthac, sitientis piros Afros. Integer legentibus erat a ante historiarum dapibus. Quisque placerat facilisis egestas cillum dolore. Pellentesque habitant morbi tristique senectus et netus. Quam temere in vitiis, legem sancimus haerentia.[/gdlr_text_align]
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_text_align class="left" ]At nos hinc posthac, sitientis piros Afros. Integer legentibus erat a ante historiarum dapibus. Quisque placerat facilisis egestas cillum dolore. Pellentesque habitant morbi tristique senectus et netus. Quam temere in vitiis, legem sancimus haerentia.[/gdlr_text_align]
+
+[/gdlr_code]
+
+[gdlr_space height="50px"]
+
+[gdlr_divider type="dotted" ]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Table Style[/gdlr_heading]
+
+[gdlr_space height="30px"]
+<table class="style-2">
+<tbody>
+<tr>
+<th>Pharetra</th>
+<th>Malesuada</th>
+<th>Cursus</th>
+<th>Euismod</th>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+</tbody>
+</table>
+[gdlr_space height="50px"]
+
+[gdlr_divider type="dotted" ]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Block Quote Center[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gdlr_quote align="center" ]Cum sociis natoque penatus etaed pnis dis parturient montes, scettr aieo ridus mus. Etiam portaem mleyo.[/gdlr_quote]
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_quote align="center" ]Cum sociis natoque penatus etaed pnis dis parturient montes, scettr aieo ridus mus. Etiam portaem mleyo.[/gdlr_quote]
+
+[/gdlr_code]
+
+[gdlr_space height="50px"]
+
+[gdlr_divider type="dotted" ]
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 [gdlr_space height="80px"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>120</wp:post_id>
@@ -17232,6 +17545,7 @@ Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus 
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?page_id=211</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[gdlr_heading tag="h3" size="24px" font_weight="normal"]Lightbox and Frames[/gdlr_heading]
 [gdlr_space height="40px"]
 
@@ -17267,6 +17581,43 @@ Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus 
 [gdlr_frame type="circle border" background="#b89f80" align="center"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/flawless/wp-content/uploads/2013/11/phone.jpg" alt=" " link_url="http://themes.goodlayers2.com/flawless/wp-content/uploads/2013/11/phone.jpg" target="_blank" width="350px"][/gdlr_frame]
 [/gdlr_code]
 
+=======
+		<content:encoded><![CDATA[[gdlr_heading tag="h3" size="24px" font_weight="normal"]Lightbox and Frames[/gdlr_heading]
+[gdlr_space height="40px"]
+
+[gdlr_frame type="normal" align="left" caption="Normal Style, Link To URL"] [gdlr_image_link type="url" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://goodlayers.com" target="_blank" width="310px"][/gdlr_frame]
+
+[gdlr_frame type="border" align="left" caption="Border Style, Open image With Lightbox"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="310px"][/gdlr_frame]
+
+[gdlr_frame type="solid" align="left" caption="Solid Style, Open Video With Lightbox" background_color="#ec4933"] [gdlr_image_link type="video" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://www.youtube.com/watch?v=SZEflIVnhH8" width="310px"][/gdlr_frame]
+
+[gdlr_frame type="rounded" align="left" caption="Rounded Corner, Open image With Lightbox"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " width="310px"]
+[/gdlr_frame]
+
+[gdlr_space height="0"]
+
+[gdlr_code title="Get the code" active="no"]
+[gdlr_frame type="normal" align="left" caption="Normal Style, Link To URL"] [gdlr_image_link type="url" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://goodlayers.com" target="_blank" width="310px"][/gdlr_frame]
+
+[gdlr_frame type="border" align="left" caption="Border Style, Open image With Lightbox"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="310px"][/gdlr_frame]
+
+[gdlr_frame type="solid" align="left" caption="Solid Style, Open Video With Lightbox" background_color="#ec4933"] [gdlr_image_link type="video" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://www.youtube.com/watch?v=SZEflIVnhH8" width="310px"][/gdlr_frame]
+
+[gdlr_frame type="rounded" align="left" caption="Rounded Corner, Open image With Lightbox"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " width="310px"]
+[/gdlr_frame]
+[/gdlr_code]
+
+<center>
+[gdlr_space height="100px"]
+[gdlr_heading tag="h3" size="28px" font_weight="normal"]How About Circle Frame?[/gdlr_heading]
+[gdlr_space height="40px"]
+[gdlr_frame type="circle solid" background_color="#ec4933" align="center"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/flawless/wp-content/uploads/2013/11/phone.jpg" alt=" " link_url="http://themes.goodlayers2.com/flawless/wp-content/uploads/2013/11/phone.jpg" target="_blank" width="350px"][/gdlr_frame]</center>[gdlr_space height="40px"]
+
+[gdlr_code title="Get the code" active="no"]
+[gdlr_frame type="circle border" background="#b89f80" align="center"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/flawless/wp-content/uploads/2013/11/phone.jpg" alt=" " link_url="http://themes.goodlayers2.com/flawless/wp-content/uploads/2013/11/phone.jpg" target="_blank" width="350px"][/gdlr_frame]
+[/gdlr_code]
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 [gdlr_space height="80px"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>211</wp:post_id>
@@ -17691,6 +18042,7 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?page_id=258</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<center>[gdlr_heading tag="h3" size="25px" font_weight="bold"]Progress Circle[/gdlr_heading]</center>[gdlr_space height="50px"]
 [gdlr_row]
 
@@ -17921,6 +18273,238 @@ porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus a
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
+=======
+		<content:encoded><![CDATA[<center>[gdlr_heading tag="h3" size="25px" font_weight="bold"]Progress Circle[/gdlr_heading]</center>[gdlr_space height="50px"]
+[gdlr_row]
+
+[gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="85" size="160" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"][gdlr_icon type="fa-apple"][/gdlr_circle_progress]
+
+[/gdlr_column] [gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="40" size="160" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"][gdlr_icon type="fa-windows"][/gdlr_circle_progress]
+
+[/gdlr_column] [gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="65" size="160" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"][gdlr_icon type="fa-photo"][/gdlr_circle_progress]
+
+[/gdlr_column]
+
+[/gdlr_row]
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_row]
+
+[gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="85" size="160" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"][gdlr_icon type="fa-apple"][/gdlr_circle_progress]
+
+[/gdlr_column] [gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="40" size="160" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"][gdlr_icon type="fa-windows"][/gdlr_circle_progress]
+
+[/gdlr_column] [gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="65" size="160" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"]Photoshop[/gdlr_circle_progress]
+
+[/gdlr_column]
+
+[/gdlr_row]
+
+[/gdlr_code]
+
+[gdlr_space height="100px"]
+
+[gdlr_row]
+
+[gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="85" size="160" line_width="8" progress_background_color="#e9e9e9" background_color="#ffffff" progress_color="#ec4933"]Photoshop[/gdlr_circle_progress]
+
+[/gdlr_column] [gdlr_column size="2/3"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Combine With Text[/gdlr_heading]
+[gdlr_space height="20px"]
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Quam temere in vitiis, legem sancimus haerentia. Ut enim ad minim veniam, quis nostrud exercitation. Ab illo tempore, ab est sed immemorabili. Curabitur blandit tempus ardua ridiculus sed magna. Quam diu etiam furor iste tuus nos eludet
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Non equidem invideo, miror magis posuere velit aliquet. Tityre, tu patulae recubans sub tegmine fagi dolor. Quam temere in vitiis, legem sancimus haerentia.
+[/gdlr_column]
+
+[/gdlr_row]
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_row]
+
+[gdlr_column size="1/3"]
+
+[gdlr_circle_progress percent="85" size="160" line_width="8" progress_background_color="#e9e9e9" background_color="#ffffff" progress_color="#ec4933"]Photoshop[/gdlr_circle_progress]
+
+[/gdlr_column] [gdlr_column size="2/3"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Combine With Text[/gdlr_heading]
+[gdlr_space height="20px"]
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Quam temere in vitiis, legem sancimus haerentia. Ut enim ad minim veniam, quis nostrud exercitation. Ab illo tempore, ab est sed immemorabili. Curabitur blandit tempus ardua ridiculus sed magna. Quam diu etiam furor iste tuus nos eludet
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Non equidem invideo, miror magis posuere velit aliquet. Tityre, tu patulae recubans sub tegmine fagi dolor. Quam temere in vitiis, legem sancimus haerentia.
+[/gdlr_column]
+
+[/gdlr_row]
+
+[/gdlr_code]
+
+[gdlr_space height="100px"]
+
+[gdlr_text_align class="center" ]
+
+[gdlr_heading tag="h3" size="25px" font_weight="normal"]Very Big Circle[/gdlr_heading]
+
+[gdlr_space height="50px"]
+
+[gdlr_circle_progress percent="75" size="310" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"]Illustrator[/gdlr_circle_progress]
+
+[gdlr_space height="50px"]
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Mercedem aut nummos unde unde extricat, amaras. Integer legentibus erat a ante historiarum dapibus. Gallia est omnis divisa in partes tres, quarum. Ullamco laboris nisi ut aliquid ex ea commodi consequat. Ut enim ad minim veniam, quis nostrud exercitation.
+
+Quo usque tandem abutere, Catilina, patientia nostra? Pellentesque habitant morbi tristique senectus et netus. Etiam habebis sem dicantur magna mollis euismod. Quisque ut dolor gravida, placerat libero vel, euismod. Non equidem invideo, miror magis posuere velit aliquet.
+
+[/gdlr_text_align]
+
+[gdlr_space height="30px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_text_align class="center" ]
+
+[gdlr_heading tag="h3" size="25px" font_weight="normal"]Very Big Circle[/gdlr_heading]
+
+[gdlr_space height="50px"]
+
+[gdlr_circle_progress percent="75" size="310" line_width="8" background_color="#ffffff" progress_background_color="#e9e9e9" progress_color="#ec4933"]Illustrator[/gdlr_circle_progress]
+
+[gdlr_space height="50px"]
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Mercedem aut nummos unde unde extricat, amaras. Integer legentibus erat a ante historiarum dapibus. Gallia est omnis divisa in partes tres, quarum. Ullamco laboris nisi ut aliquid ex ea commodi consequat. Ut enim ad minim veniam, quis nostrud exercitation.
+
+Quo usque tandem abutere, Catilina, patientia nostra? Pellentesque habitant morbi tristique senectus et netus. Etiam habebis sem dicantur magna mollis euismod. Quisque ut dolor gravida, placerat libero vel, euismod. Non equidem invideo, miror magis posuere velit aliquet.
+
+[/gdlr_text_align]
+
+[/gdlr_code]
+
+[gdlr_space height="80px"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>258</wp:post_id>
+		<wp:post_date>2013-11-26 11:51:22</wp:post_date>
+		<wp:post_date_gmt>2013-11-26 11:51:22</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>progress-circle</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>gdlr_max_people</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>gdlr_room_amount</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>post-option</wp:meta_key>
+			<wp:meta_value><![CDATA[{"sidebar":"right-sidebar","left-sidebar":"blog","right-sidebar":"shortcodes","page-style":"normal","show-title":"enable","page-caption":"Shortcode Usage","show-content":"enable","header-background":""}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>above-sidebar</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>content-with-sidebar</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>below-sidebar</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Stunning Text</title>
+		<link>http://themes.goodlayers2.com/lawyerbase/stunning-text/</link>
+		<pubDate>Tue, 26 Nov 2013 12:47:53 +0000</pubDate>
+		<dc:creator><![CDATA[gdadmin]]></dc:creator>
+		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?page_id=285</guid>
+		<description></description>
+		<content:encoded><![CDATA[[gdlr_heading tag="h2" size="30px" font_weight="bold"]Stunning Text[/gdlr_heading]
+
+[gdlr_space height="40px"]
+
+[gdlr_heading tag="h3" size="24px" font_weight="normal"]Stunning Text Bg Style[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gdlr_stunning_text background_color="#f3f3f3" button="BUTTON TEXT" button_link="#" button_background="#ec4933" button_text_color="#ffffff"  title="Venenatis Sollicitudin Ornare Nibh" title_color="#ec4933" caption_color="#a0a0a0"]Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna
+mollis eorbi porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla.[/gdlr_stunning_text]
+
+[gdlr_space height="20px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_stunning_text background_color="#f3f3f3" button="BUTTON TEXT" button_link="#" button_background="#b89f80" button_text_color="#ffffff"  title="Venenatis Sollicitudin Ornare Nibh" title_color="#b89f80" caption_color="#a0a0a0"]Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis eorbi
+porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_stunning_text]
+
+[/gdlr_code]
+
+[gdlr_space height="60px"]
+
+[gdlr_heading tag="h3" size="24px" font_weight="normal"]Stunning Text Border Style[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gdlr_stunning_text border_color="#e5e5e5" button="BUTTON TEXT" button_link="#" button_background="#ec4933" button_text_color="#ffffff"  title="Venenatis Sollicitudin Ornare Nibh" title_color="#ec4933" caption_color="#a0a0a0"]Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna
+mollis eorbi porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla.[/gdlr_stunning_text]
+
+[gdlr_space height="20px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gdlr_stunning_text border_color="#e5e5e5" button="BUTTON TEXT" button_link="#" button_background="#ec4933" button_text_color="#ffffff"  title="Venenatis Sollicitudin Ornare Nibh" title_color="#ec4933" caption_color="#a0a0a0"]Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis eorbi
+porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_stunning_text]
+
+[/gdlr_code]
+
+[gdlr_space height="80px"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>285</wp:post_id>
+		<wp:post_date>2013-11-26 12:47:53</wp:post_date>
+		<wp:post_date_gmt>2013-11-26 12:47:53</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>stunning-text</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 			<wp:meta_key>gdlr_max_people</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -19259,6 +19843,7 @@ tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferment
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?page_id=705</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[gdlr_heading tag="h2" size="26px" font_weight="bold"]Gallery Based On WP Gallery Shortcode[/gdlr_heading]
 
 [gdlr_space height="40px"]
@@ -19306,6 +19891,55 @@ tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferment
 
 [/gdlr_code]
 
+=======
+		<content:encoded><![CDATA[[gdlr_heading tag="h2" size="26px" font_weight="bold"]Gallery Based On WP Gallery Shortcode[/gdlr_heading]
+
+[gdlr_space height="40px"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]5 Columns Without Caption[/gdlr_heading]
+[gdlr_space height="30px"]
+
+[gallery columns="5" link="file" caption="no" thumbnail_size="thumbnail" ids="3964,3963,3961,3962,3959,3951,3948,3947,3938,3937"]
+
+[gdlr_space height="20px"]
+
+[gdlr_code title="Get the code" active ="no"]
+
+[gallery columns="5" link="file" caption="no" thumbnail_size="thumbnail" ids="3964,3963,3961,3962,3959,3951,3948,3947,3938,3937"]
+
+[/gdlr_code]
+
+[gdlr_space height="60px"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]5 Columns With Caption[/gdlr_heading]
+[gdlr_space height="30px"]
+
+[gallery columns="5" link="file" caption="yes" thumbnail_size="thumbnail" ids="3964,3963,3961,3962,3959,3951,3948,3947,3938,3937"]
+
+[gdlr_space height="20px"]
+
+[gdlr_code title="Get the code" active ="no"]
+
+[gallery columns="5" link="file" caption="yes" thumbnail_size="thumbnail" ids="3964,3963,3961,3962,3959,3951,3948,3947,3938,3937"]
+
+[/gdlr_code]
+
+[gdlr_space height="60px"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Gallery Thumbnail Style[/gdlr_heading]
+[gdlr_space height="30px"]
+
+[gallery columns="7" link="file" caption="yes" thumbnail_size="thumbnail" type="thumbnail" ids="3964,3963,3961,3962,3959,3951,3948"]
+
+[gdlr_space height="20px"]
+
+[gdlr_code title="Get the code" active ="no"]
+
+[gallery columns="7" link="file" caption="yes" thumbnail_size="thumbnail" type="thumbnail" ids="3964,3963,3961,3962,3959,3951,3948"]
+
+[/gdlr_code]
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 [gdlr_space height="60px"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>705</wp:post_id>
@@ -20961,6 +21595,7 @@ Paullum deliquit, ponderibus modulisque suis ratio utitur. Contra legem facit qu
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?page_id=1045</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[gdlr_heading tag="h3" size="22px" font_weight="normal"]Slider With Left Caption[/gdlr_heading]
 
 [gdlr_space height="30px"]
@@ -21021,6 +21656,68 @@ Paullum deliquit, ponderibus modulisque suis ratio utitur. Contra legem facit qu
 
 [/gdlr_code]
 
+=======
+		<content:encoded><![CDATA[[gdlr_heading tag="h3" size="22px" font_weight="normal"]Slider With Left Caption[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gallery columns="4" link="file" caption="yes" thumbnail_size="post-slider-bottom" type="slider" ids="3971,3972,3978,3974"]
+
+[gdlr_space height="40px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gallery columns="4" link="file" caption="yes" thumbnail_size="post-slider-bottom" type="slider" ids="3971,3972,3978,3974"]
+
+[/gdlr_code]
+
+[gdlr_space height="60px"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Slider With Center Caption[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gallery columns="4" link="file" caption="yes" thumbnail_size="post-slider-bottom" type="slider" caption_position="center"  ids="3971,3972,3978,3974"]
+
+[gdlr_space height="40px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gallery columns="4" link="file" caption="yes" thumbnail_size="post-slider-bottom" type="slider" caption_position="center" ids="3971,3972,3978,3974"]
+
+[/gdlr_code]
+
+[gdlr_space height="60px"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Slider With Right Caption[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gallery columns="4" link="file" caption="yes" thumbnail_size="post-slider-bottom" type="slider" caption_position="right"  ids="3971,3972,3978,3974"]
+
+[gdlr_space height="40px"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gallery columns="4" link="file" caption="yes" thumbnail_size="post-slider-bottom" type="slider" caption_position="right" ids="3971,3972,3978,3974"]
+
+[/gdlr_code]
+
+[gdlr_space height="60px"]
+
+[gdlr_heading tag="h3" size="22px" font_weight="normal"]Slider Thumbnail Style[/gdlr_heading]
+
+[gdlr_space height="30px"]
+
+[gallery columns="6" link="file" caption="yes" thumbnail_size="small-grid-size" type="thumbnail" ids="3971,3972,3974,3978,3977,3975"]
+
+[gdlr_code title="Get the code" active="no"]
+
+[gallery columns="6" link="file" caption="yes" thumbnail_size="small-grid-size" type="thumbnail" ids="3971,3972,3974,3978,3977,3975"]
+
+[/gdlr_code]
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 [gdlr_space height="80px"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1045</wp:post_id>
@@ -24908,6 +25605,7 @@ Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invide
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?p=867</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[gallery columns="4" link="file" caption="yes" thumbnail_size="thumbnail" ids="3951,3936,3934,3957,3958,3959,3946,3964"]
 
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus. Magna pars studiorum, prodita quaerimus. Fabio vel iudice vincam, sunt in culpa qui officia. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet. Qui ipsorum lingua Celtae, nostra Galli appellantur. Prima luce, cum quibus mons aliud consensu ab eo. Petierunt uti sibi concilium totius Galliae in diem certam indicere. [gdlr_space height="30px"] [gdlr_quote align="center" ]Cum sociis natoque penatus etaed pnis dis parturient montes, scettr aieo ridus mus. Etiam portaem mleyo.[/gdlr_quote] [gdlr_space height="30px"] Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus. Magna pars studiorum, prodita quaerimus. Fabio vel iudice vincam, sunt in culpa qui officia. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet. Qui ipsorum lingua Celtae, nostra Galli appellantur. Prima luce, cum quibus mons aliud consensu ab eo. Petierunt uti sibi concilium totius Galliae in diem certam indicere. [gdlr_space height="40px"]
@@ -24951,6 +25649,51 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 </tr>
 </tbody>
 </table>
+=======
+		<content:encoded><![CDATA[[gallery columns="4" link="file" caption="yes" thumbnail_size="thumbnail" ids="3951,3936,3934,3957,3958,3959,3946,3964"]
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus. Magna pars studiorum, prodita quaerimus. Fabio vel iudice vincam, sunt in culpa qui officia. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet. Qui ipsorum lingua Celtae, nostra Galli appellantur. Prima luce, cum quibus mons aliud consensu ab eo. Petierunt uti sibi concilium totius Galliae in diem certam indicere. [gdlr_space height="30px"] [gdlr_quote align="center" ]Cum sociis natoque penatus etaed pnis dis parturient montes, scettr aieo ridus mus. Etiam portaem mleyo.[/gdlr_quote] [gdlr_space height="30px"] Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus. Magna pars studiorum, prodita quaerimus. Fabio vel iudice vincam, sunt in culpa qui officia. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet. Qui ipsorum lingua Celtae, nostra Galli appellantur. Prima luce, cum quibus mons aliud consensu ab eo. Petierunt uti sibi concilium totius Galliae in diem certam indicere. [gdlr_space height="40px"]
+<table>
+<tbody>
+<tr>
+<th>Pharetra</th>
+<th>Malesuada</th>
+<th>Cursus</th>
+<th>Euismod</th>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+<tr>
+<td>Ipsum</td>
+<td>Portalion</td>
+<td>Elitesimo</td>
+<td>Aenean</td>
+</tr>
+</tbody>
+</table>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 [gdlr_space height="40px"] Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus. Magna pars studiorum, prodita quaerimus. Fabio vel iudice vincam, sunt in culpa qui officia. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet. Qui ipsorum lingua Celtae, nostra Galli appellantur. Prima luce, cum quibus mons aliud consensu ab eo. Petierunt uti sibi concilium totius Galliae in diem certam indicere.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>867</wp:post_id>
@@ -25627,10 +26370,17 @@ Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invide
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/flawless/?p=10</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[gallery link="file" caption="yes" thumbnail_size="small-grid-size" ids="3937,3940,3941"]
 
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus. Magna pars studiorum, prodita quaerimus. Fabio vel iudice vincam, sunt in culpa qui officia. Vivamus sagittis lacus vel augue laoreet rutrum faucibus.
 
+=======
+		<content:encoded><![CDATA[[gallery link="file" caption="yes" thumbnail_size="small-grid-size" ids="3937,3940,3941"]
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus. Magna pars studiorum, prodita quaerimus. Fabio vel iudice vincam, sunt in culpa qui officia. Vivamus sagittis lacus vel augue laoreet rutrum faucibus.
+
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet. Qui ipsorum lingua Celtae, nostra Galli appellantur. Prima luce, cum quibus mons aliud consensu ab eo. Petierunt uti sibi concilium totius Galliae in diem certam indicere.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2211</wp:post_id>
@@ -25852,6 +26602,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/versatile/?post_type=wpcf7_contact_form&#038;p=4</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<p>
     [text* your-name placeholder "Name*"] </p>
 
@@ -25871,6 +26622,27 @@ Message Body:
 [your-message]
 
 --
+=======
+		<content:encoded><![CDATA[<p>
+    [text* your-name placeholder "Name*"] </p>
+
+<p>
+    [email* your-email placeholder "Email*"] </p>
+
+<p>
+    [textarea* your-message placeholder "Message*"] </p>
+
+<p>[submit "Submit"]</p>
+[your-subject]
+[your-name] <[your-email]>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 This e-mail was sent from a contact form on Versatile (http://themes.goodlayers2.com/versatile)
 ss@ss.ss
 
@@ -25880,10 +26652,17 @@ ss@ss.ss
 
 [your-subject]
 [your-name] <[your-email]>
+<<<<<<< HEAD
 Message Body:
 [your-message]
 
 --
+=======
+Message Body:
+[your-message]
+
+--
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 This e-mail was sent from a contact form on Versatile (http://themes.goodlayers2.com/versatile)
 [your-email]
 
@@ -26672,6 +27451,7 @@ Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invide
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4033</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -26696,6 +27476,32 @@ Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invide
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4033</wp:post_id>
@@ -26732,6 +27538,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4036</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -26756,6 +27563,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4036</wp:post_id>
@@ -26797,6 +27630,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4038</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -26821,6 +27655,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4038</wp:post_id>
@@ -26861,6 +27721,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4039</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -26885,6 +27746,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4039</wp:post_id>
@@ -26925,6 +27812,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4040</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -26949,6 +27837,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4040</wp:post_id>
@@ -26990,6 +27904,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4042</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur.[gdlr_frame type="border" align="right"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="200px"][/gdlr_frame]  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse.
 
 <strong>Donec id elit non mi porta gravida</strong> at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.
@@ -27016,6 +27931,34 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur.[gdlr_frame type="border" align="right"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="200px"][/gdlr_frame]  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse.
+
+<strong>Donec id elit non mi porta gravida</strong> at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4042</wp:post_id>
@@ -27056,6 +27999,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4043</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -27080,6 +28024,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4043</wp:post_id>
@@ -27121,6 +28091,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4044</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -27145,6 +28116,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4044</wp:post_id>
@@ -27185,6 +28182,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4045</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -27209,6 +28207,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4045</wp:post_id>
@@ -27250,6 +28274,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=practice&#038;p=4046</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 [gdlr_space height="40px"]
@@ -27274,6 +28299,32 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 </ul>
 [gdlr_space height="30px"]
 <h5>Curabitur blandit tempus porttito</h5>
+=======
+		<content:encoded><![CDATA[Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. [gdlr_frame type="border" align="left"] [gdlr_image_link type="image" image_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://themes.goodlayers2.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="192px"][/gdlr_frame]  Duis mollis, est non commodo luctus, nisi erat  Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Sed posuere conse. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta.Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+[gdlr_space height="40px"]
+
+[gdlr_accordion style="style-1" initial="1"]
+[gdlr_tab title="Pharetra Porta Quam Egestas"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Dolor Bibendum Tortor"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+
+[gdlr_tab title="Quam Nibh Fermentum Amet Magna"]Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.[/gdlr_tab]
+[/gdlr_accordion]
+
+[gdlr_space height="40px"]
+<h5>Vulputate Adipiscing Egestas</h5>
+<ul>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</li>
+	<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+	<li>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum isus.</li>
+	<li>Donec ullamcorper nulla non metus auctor fringilla.</li>
+	<li>Donec id elit non mi porta gravida at eget metus.</li>
+</ul>
+[gdlr_space height="30px"]
+<h5>Curabitur blandit tempus porttito</h5>
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit libero</strong>, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4046</wp:post_id>
@@ -27314,6 +28365,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. <strong>Nulla vitae elit l
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=wpcf7_contact_form&#038;p=4153</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<p>[text* your-name placeholder ="Name*"] </p>
 
 <p>[email* your-email placeholder ="Email*"] </p>
@@ -27329,6 +28381,23 @@ Message Body:
 [your-message]
 
 --
+=======
+		<content:encoded><![CDATA[<p>[text* your-name placeholder ="Name*"] </p>
+
+<p>[email* your-email placeholder ="Email*"] </p>
+
+<p>[textarea your-message x4 placeholder ="Message*"] </p>
+
+<p>[submit "Submit"]</p>
+[your-subject]
+[your-name] <wordpress@themes.goodlayers2.com>
+From: [your-name] <[your-email]>
+
+Message Body:
+[your-message]
+
+--
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 This e-mail was sent from a contact form on Lawyer Base (http://themes.goodlayers2.com/lawyerbase)
 ss@ss.ss
 Reply-To: [your-email]
@@ -27338,10 +28407,17 @@ Reply-To: [your-email]
 
 [your-subject]
 Lawyer Base <wordpress@themes.goodlayers2.com>
+<<<<<<< HEAD
 Message Body:
 [your-message]
 
 --
+=======
+Message Body:
+[your-message]
+
+--
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 This e-mail was sent from a contact form on Lawyer Base (http://themes.goodlayers2.com/lawyerbase)
 [your-email]
 Reply-To: ss@ss.ss
@@ -27432,6 +28508,7 @@ This e-mail was sent from a contact form on Lawyer Base (http://themes.goodlayer
 		<dc:creator><![CDATA[gdadmin]]></dc:creator>
 		<guid isPermaLink="false">http://themes.goodlayers2.com/lawyerbase/?post_type=wpcf7_contact_form&#038;p=4260</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<p>
     [text* your-name placeholder "Name*"] </p>
 
@@ -27454,6 +28531,30 @@ Message Body:
 [your-message]
 
 --
+=======
+		<content:encoded><![CDATA[<p>
+    [text* your-name placeholder "Name*"] </p>
+
+<p>
+    [email* your-email placeholder "Email*"] </p>
+
+<p>
+    [text* your-subject placeholder "Subject*"] </p>
+
+<p>
+    [textarea* your-message x7 placeholder "Message*" ] </p>
+
+<p>[submit "Submit"]</p>
+[your-subject]
+[your-name] <wordpress@themes.goodlayers2.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 This e-mail was sent from a contact form on Lawyer Base (http://themes.goodlayers2.com/lawyerbase)
 ss@ss.ss
 Reply-To: [your-email]
@@ -27463,10 +28564,17 @@ Reply-To: [your-email]
 
 [your-subject]
 Lawyer Base <wordpress@themes.goodlayers2.com>
+<<<<<<< HEAD
 Message Body:
 [your-message]
 
 --
+=======
+Message Body:
+[your-message]
+
+--
+>>>>>>> 974d01e1926626d6325868762b9c736c3c95759a
 This e-mail was sent from a contact form on Lawyer Base (http://themes.goodlayers2.com/lawyerbase)
 [your-email]
 Reply-To: ss@ss.ss
