@@ -1,0 +1,61 @@
+/***************************************
+/***************************************
+	Theme Name: lawyerbase-v1-01 CHILD
+	Theme URI: http://foliozee.kraftives.com/demo_wp/standard/
+	Description: Folio ZEE, a Premium Wordpress Theme, with unique concepts of Light, Dark, Grey Skins with unlimited color presets, introducing curved shape modules, using Visual Composer builder and very organized Theme options Panel, specially designed for Small and Large Business organization to fulfill there needs with One Page and Multipurpose features integerated in it.
+	Author: Kraftives
+	Author URI: http://www.kraftives.com
+	Version: 1.1.0
+	Template: lawyerbase-v1-01
+	Tags: red, blue, green, dark, one-column, left-sidebar, right-sidebar, full-width-template, custom-menu, editor-style, featured-images, post-formats, theme-options, translation-ready
+	License: GNU General Public License v2.0
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Text Domain: kraftives
+***************************************/
+
+
+
+@import url("../lawyerbase-v1-01/style.css");
+.gdlr-service-half-background-item .gdlr-half-left {max-width: 100%; width: 100%; padding: 40px 0px 910px;}
+.half-container {padding-right: 40px; max-width: 1077px!important;}
+
+.ms-btn-container {background-color:#ec4933;}
+.ms-btn-container a {color: #fff;}
+.wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 input[type="password"], .wpcf7 textarea {
+	background-color: #fff;
+}
+.gdlr-logo {max-width: 228px!important;}
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a {padding: 0px 8px 0px 4px;}
+.gdlr-navigation-wrapper {
+  margin-top: 34px!important;
+}
+.gdlr-service-half-background-item .gdlr-half-left {padding: 6px 0px 899px;}
+
+#content-section-4 > div.gdlr-color-wrapper.gdlr-show-all.gdlr-skin-light-grey {padding-top: 0px!important;}
+
+body .ms-skin-default .ms-nav-prev, body .ms-skin-default .ms-nav-next {display: none;}
+.gdlr-navigation-wrapper .gdlr-menu-search-button {margin: 0px 0px 0px 0px; padding: 7px;}
+div.gdlr-navigation-substitute > div > div > div{display:none !important;}
+.gdlr-navigation-wrapper.gdlr-align-right.gdlr-fixed-menu.gdlr-fixed-menu .gdlr-logo{display:block !important; background-image: url(http://bassil.javalidigital.com.br/wp-content/themes/lawyerbase-v1-01/images/dark/social-icon/facebook.png);}
+.gdlr-fixed-header {
+/*  top: 29px;*/
+  background-image: url(http://bassil.javalidigital.com.br/wp-content/uploads/2015/06/logo-fixo.png);
+  background-position: 70px 24px;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-width: 1100px){
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a {
+  padding: 34px 8px 0px 4px!important;
+}
+}
+
+@media only screen and (max-width: 1100px) {
+body .body-wrapper.gdlr-boxed-style {
+  max-width: 730px;
+}
+}
+@media only screen and (max-width: 960px) {
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a:before {display: none!important;}
+}
+
+#wpcf7-f4-o1 > form > p:nth-child(3) > span > input{background-color: #000!important;}
