@@ -27,7 +27,7 @@
 		<?php
 			$search_val = get_search_query();
 			if( empty($search_val) ){
-				$search_val = __("Type Keywords" , "gdlr_translate");
+				$search_val = __("O que você procura?" , "gdlr_translate");
 			}
 		?>
 		<div class="search-text">

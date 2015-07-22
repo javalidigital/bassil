@@ -16,22 +16,23 @@
 
 
 @import url("../lawyerbase-v1-01/style.css");
+.container {margin-top: -10px;}
 .gdlr-service-half-background-item .gdlr-half-left {max-width: 100%; width: 100%; padding: 40px 0px 910px;}
 .half-container {padding-right: 40px; max-width: 1077px!important;}
 
-.ms-btn-container {background-color:#ec4933;}
+.ms-btn-container {background-color:#900000;}
 .ms-btn-container a {color: #fff;}
 .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 input[type="password"], .wpcf7 textarea {
 	background-color: #fff;
 }
-.gdlr-logo {max-width: 228px!important;}
+.gdlr-logo {max-width: 228px!important; margin-bottom: 0px!important; padding-top: 10px;}
 .gdlr-navigation-wrapper .gdlr-main-menu > li > a {padding: 0px 8px 0px 4px;}
 .gdlr-navigation-wrapper {
   margin-top: 34px!important;
 }
 .gdlr-service-half-background-item .gdlr-half-left {padding: 6px 0px 899px;}
 
-#content-section-4 > div.gdlr-color-wrapper.gdlr-show-all.gdlr-skin-light-grey {padding-top: 0px!important;}
+#content-section-4 > div.gdlr-color-wrapper.gdlr-show-all.gdlr-skin-light-grey {padding-top: 15px!important;}
 
 body .ms-skin-default .ms-nav-prev, body .ms-skin-default .ms-nav-next {display: none;}
 .gdlr-navigation-wrapper .gdlr-menu-search-button {margin: 0px 0px 0px 0px; padding: 7px;}
@@ -39,7 +40,7 @@ div.gdlr-navigation-substitute > div > div > div{display:none !important;}
 .gdlr-navigation-wrapper.gdlr-align-right.gdlr-fixed-menu.gdlr-fixed-menu .gdlr-logo{display:block !important; background-image: url(http://bassil.javalidigital.com.br/wp-content/themes/lawyerbase-v1-01/images/dark/social-icon/facebook.png);}
 .gdlr-fixed-header {
 /*  top: 29px;*/
-  background-image: url(http://bassil.javalidigital.com.br/wp-content/uploads/2015/06/logo-fixo.png);
+  background-image: url(http://bassil.javalidigital.com.br/wp-content/uploads/2015/07/logo-fixo.png);
   background-position: 70px 24px;
   background-repeat: no-repeat;
 }
@@ -58,4 +59,27 @@ body .body-wrapper.gdlr-boxed-style {
 .gdlr-navigation-wrapper .gdlr-main-menu > li > a:before {display: none!important;}
 }
 
-#wpcf7-f4-o1 > form > p:nth-child(3) > span > input, #wpcf7-f4-o1 > form > p:nth-child(4) > span > input, #wpcf7-f4-o1 > form > p:nth-child(5) > span > textarea {background-color: #EDDCDC!important;}
+#wpcf7-f47-o1 > form > p:nth-child(2) > span > input, #wpcf7-f47-o1 > form > p:nth-child(3) > span > input, #wpcf7-f47-o1 > form > p:nth-child(4) > span > input, #wpcf7-f47-o1 > form > p:nth-child(5) > span > input, #wpcf7-f47-o1 > form > p:nth-child(6) > span > textarea, #wpcf7-f4-o1 > form > p:nth-child(2) > span > input, #wpcf7-f4-o1 > form > p:nth-child(3) > span > input, #wpcf7-f4-o1 > form > p:nth-child(4) > span > input, #wpcf7-f4-o1 > form > p:nth-child(5) > span > textarea {background-color: #EDDCDC!important;}
+.gdlr-navigation-wrapper .gdlr-main-menu > li:hover > a:before, .gdlr-navigation-wrapper .gdlr-main-menu > li.current-menu-item > a:before, .gdlr-navigation-wrapper .gdlr-main-menu > li.current-menu-ancestor > a:before {display: none;}
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a:before {display: none;}
+/*.et_bloom .et_bloom_optin_1 .et_bloom_form_container .et_bloom_form_header {display: none;}*/
+
+/*ULTIMOS POSTS HOME*/
+.gdlr-blog-medium .gdlr-blog-thumbnail {width: 17%;}
+.gdlr-blog-medium .gdlr-blog-title {font-size: 21px;}
+.gdlr-blog-medium .gdlr-blog-content {display: none;}
+/*ARTIGOS PAGINA*/
+.gdlr-standard-style .gdlr-single-blog-tag a, .gdlr-blog-full .gdlr-single-blog-tag i {display: none;}
+
+/*posts - educativos page*/
+#post-125 > div > header > div.clear {display: none;
+/*ATUAÇÃO*/}
+.gdlr-accordion-item.style-1 .accordion-title span {color: #900000; font-weight: bold;}
+/*VÍDEOS*/
+.ytc-pslb .col-lg-4 { padding-left: 15px!important; padding-right: 15px!important;}
+.ytc-pslb .col-xs-12 {display: none;}
+.ms-btn-container a {color: #fff!important;}
+.gdlr-blog-title, .gdlr-blog-title a, .gdlr-item-title-wrapper .gdlr-item-title-link, .gdlr-skin-light-grey a, .gdlr-skin-light-grey .gdlr-skin-link, .gdlr-skin-light-grey .gdlr-skin-link-color, .blog-info, .blog-info a, .blog-info i, span, a {color: #900000!important;}
+
+
+.msp-cn-1-1 {color: #900000!important;}
